@@ -1,0 +1,4 @@
+# Direct dependencies only; versions pinned to those tested in .venv (Python 3.14).
+beautifulsoup4==4.15.0
+ollama==0.6.3
+requests==2.34.2
